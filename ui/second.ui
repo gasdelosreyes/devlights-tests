@@ -29,6 +29,12 @@
     <string notr="true">background-color: rgb(255, 255, 255);
 color: rgb(0, 0, 0);</string>
    </property>
+   <property name="maxLength">
+    <number>100000</number>
+   </property>
+   <property name="placeholderText">
+    <string>String</string>
+   </property>
   </widget>
   <widget class="QLabel" name="validation">
    <property name="geometry">
